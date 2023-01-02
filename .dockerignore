@@ -1,0 +1,6 @@
+.vscode
+.DS_Store
+
+frontend/public/
+frontend/node_modules/
+frontend/dist/
